@@ -5,3 +5,8 @@
 
 
 "Tech Trivia: Test Your Tech IQ" is a thrilling event that challenges participants with questions spanning aptitude, tech news, and the art of debugging code. Join us in this exciting competition to showcase your tech knowledge and problem-solving skills.
+
+
+
+1st year
+https://forms.gle/mRYMb2ZUe2BeogVf9
