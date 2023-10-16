@@ -21,6 +21,6 @@ Below is the link to the google form and hacker rank
 
 Below is the link to the google form and hacker rank
 
--Google Form: 
+-Google Form: https://forms.gle/W3e2hagL1npJDxCH6
 
 -Hacker Rank: 
