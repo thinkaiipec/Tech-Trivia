@@ -1,4 +1,4 @@
-# Technical Event
+# Tech Trivia
 
 
 
