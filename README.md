@@ -15,7 +15,7 @@ Below is the link to the google form and hacker rank
 
 -Google Form: https://forms.gle/mRYMb2ZUe2BeogVf9
 
--Hacker Rank: 
+-Hacker Rank: https://www.hackerrank.com/tech-trivia-1st
 
 ![image](https://github.com/thinkaiipec/Tech-Trivia/assets/147975727/bea6d126-fa2f-4a38-a4d0-72758f4eb31d)
 
@@ -23,4 +23,4 @@ Below is the link to the google form and hacker rank
 
 -Google Form: https://forms.gle/W3e2hagL1npJDxCH6
 
--Hacker Rank: 
+-Hacker Rank: https://www.hackerrank.com/tech-trivia-3rd
